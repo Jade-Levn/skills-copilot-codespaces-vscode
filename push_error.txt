@@ -1,0 +1,1 @@
+Note: resolved git push error {origin/main} using "git pull --rebase"
